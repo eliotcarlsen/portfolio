@@ -1,9 +1,10 @@
 img {
-  width: 50%;
+  width: 100%;
   float: right;
 }
+
 .container {
-  background-color: blue;
+  text-align: center;
 }
 
 h3 {

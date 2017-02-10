@@ -1,6 +1,7 @@
 img {
   width: 25%;
   float: right;
+  margin-top: -75px;
 }
 
 .container {
@@ -15,5 +16,64 @@ body {
 }
 
 #me {
-  background-color: blue;
+  background-image: url("https://a3-images.myspacecdn.com/images03/2/38c39d453e34400586d879e7449a3d93/300x300.jpg");
+  background-position: center;
+  font-weight: bold;
+  color: black;
+}
+
+#rockclimbing {
+  background-image: url("https://www.mountainproject.com/images/10/57/107081057_medium_14b468.jpg");
+  background-position: center;
+  font-weight: bold;
+  color: black;
+}
+
+#cupcake {
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQALOhrXjhlpFkZosJ0WdkU-eve0ahlm8ymLjtVptYebloygI1iuQ");
+  background-position: center;
+  font-weight: bold;
+  color: black;
+}
+
+#wiki {
+  background-image: url("https://upload.wikimedia.org/wikipedia/en/thumb/8/80/Wikipedia-logo-v2.svg/1122px-Wikipedia-logo-v2.svg.png");
+  background-position: center;
+  font-weight: bold;
+  color: black;
+}
+
+#animal {
+  background-image: url("http://www.slocounty.ca.gov/Assets/AS/Images/Cat_Blue+Eyes.jpg");
+  background-position: center;
+  font-weight: bold;
+  color: black;
+}
+
+#chess {
+  background-image: url("http://www.toyhalloffame.org/sites/www.toyhalloffame.org/files/toys/square/chess-square_0_0.jpg");
+  background-position: center;
+  font-weight: bold;
+  color: black;
+}
+
+#band {
+  background-image: url("http://holykaw.alltop.com/wp-content/uploads/2013/10/Fotolia_40337302_Subscription_XXL-500x353.jpg");
+  background-position: center;
+  font-weight: bold;
+  color: black;
+}
+
+#stamp {
+  background-image: url("https://www.eecis.udel.edu/~davis/stamps/alpha_letters.gif");
+  background-position: center;
+  font-weight: bold;
+  color: black;
+}
+
+#resort {
+  background-image: url("https://arlingtonvoice.com/sites/default/files/reports/2017/Feb/06/water-17.jpg");
+  background-position: center;
+  font-weight: bold;
+  color: black;
 }

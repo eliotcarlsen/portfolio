@@ -4,6 +4,18 @@
   margin-top: -75px;
 }
 
+.jumbotron {
+  font-family: times;
+}
+
+.jumbotron h2, h4 {
+    font-weight: bold;
+}
+
+body{
+  font-family: sans-serif;
+}
+
 .row img {
   width: 20%;
   float: right;
@@ -23,6 +35,7 @@ h3 {
 }
 body {
   background-image: url("https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRpA2L9xoFGw-u9akDrAVhzHw5muQPEQkllY9qWQDoHmAH9YK1DNg");
+
 }
 
 #me {

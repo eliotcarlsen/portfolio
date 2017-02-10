@@ -13,3 +13,7 @@ h3 {
 body {
   background-image: url("https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRpA2L9xoFGw-u9akDrAVhzHw5muQPEQkllY9qWQDoHmAH9YK1DNg");
 }
+
+#me {
+  background-color: blue;
+}

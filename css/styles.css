@@ -1,7 +1,12 @@
-img {
+.jumbotron img {
   width: 25%;
   float: right;
   margin-top: -75px;
+}
+
+.row img {
+  width: 25%;
+  float: right;
 }
 
 .container {

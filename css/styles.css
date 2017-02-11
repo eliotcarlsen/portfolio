@@ -34,7 +34,7 @@ h6 {
   font-weight: bold;
 }
 
-.panel-heading h6 {
+.panel-heading h6, h4 {
   color: black;
 }
 

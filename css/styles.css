@@ -1,7 +1,7 @@
 .jumbotron img {
   width: 25%;
   float: right;
-  margin-top: -75px;
+  margin-top: -55px;
 }
 
 .jumbotron {
@@ -30,12 +30,20 @@ body{
   text-align: center;
 }
 
+h6 {
+  font-weight: bold;
+}
+
+.panel-heading h6 {
+  color: black;
+}
+
 h3 {
   color: black;
 }
-body {
-  background-image: url("https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRpA2L9xoFGw-u9akDrAVhzHw5muQPEQkllY9qWQDoHmAH9YK1DNg");
 
+body {
+  background-image: url("https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT09z3NZLJETrAOKLVV5-xpvBnm_uSPEv2PjhhTdoPWYqeJhIqWJQ");
 }
 
 #me {

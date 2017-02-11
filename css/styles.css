@@ -10,6 +10,7 @@
 
 .jumbotron h2, h4 {
     font-weight: bold;
+    color: black;
 }
 
 body{
@@ -44,6 +45,14 @@ h3 {
 
 body {
   background-image: url("https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT09z3NZLJETrAOKLVV5-xpvBnm_uSPEv2PjhhTdoPWYqeJhIqWJQ");
+}
+
+#activities {
+  background-color: #eafcff;
+}
+
+#background {
+  background-color: #eafcff;
 }
 
 #me {
